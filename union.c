@@ -54,7 +54,7 @@ void main()
 
 
 
-    printf("Union of Set A and Set B is");
+    printf("Union of Set A and Set B is:\n");
     for(i=0; i<n3; i++)
     {
         printf("%d",c[i]);
