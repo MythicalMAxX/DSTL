@@ -14,12 +14,6 @@ void main()
         scanf("%d",&a[i]);
     }
 
-    for(i=0; i<n1; i++)
-    {
-        printf("%d",a[i]);
-        printf("\n");
-    }
-
     printf("Enter total number elements of b\n");
     scanf("%d",&n2);
 
@@ -27,11 +21,6 @@ void main()
     for(i=0; i<n2; i++)
     {
         scanf("%d",&b[i]);
-    }
-    for(i=0; i<n2; i++)
-    {
-        printf("%d",b[i]);
-        printf("\n");
     }
 
     for(i=0; i<n1; i++)
